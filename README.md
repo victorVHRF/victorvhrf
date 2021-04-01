@@ -10,15 +10,15 @@
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=falt&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />      
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-    <img alt="Visual Studio Code" src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
     <img alt="Anuglar" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
     <img alt="Angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
     <img alt="Git" src="https://badges.aleen42.com/src/github.svg"/>
     <img alt="NPM" src="https://badges.aleen42.com/src/npm.svg"/>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
     <img alt="Slack" src="https://badges.aleen42.com/src/slack.svg"/>
     <img alt="Idea" src="https://badges.aleen42.com/src/idea.svg"/>
   	<img alt="TypeScripst" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
