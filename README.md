@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 
-<h4>- 🔭 I’m currently working on GSTI;</h4>
-<h4>- 🌱 I’m currently learning:</h4>
+<h4>- :office: I’m currently working on GSTI;</h4>
+<h4>- :computer: I’m currently learning:</h4>
+
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=falt&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -28,7 +29,12 @@
     <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
 </p>
-<h4> - 📫 How to reach me: </h4>
+<ul>
+    <li>
+        <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-f7931a?logo=Bitcoin&logoColor=white&style=flat" />
+    </li>
+</ul>
+<h4> - :mailbox: How to reach me: </h4>
 <p>
   <a href="mailto:victor.vhrf@gmail.com">
     <img src="https://img.shields.io/badge/victor.vhrf-ea4335?logo=Gmail&logoColor=white&style=flat" />
