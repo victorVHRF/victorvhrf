@@ -36,6 +36,6 @@
 </p>
 <p>
   <a href="https://www.linkedin.com/in/victorhugofonseca/" target="_blank">
-    <img alt="Linkedin Badge" src="https://img.shields.io/badge/-victorhugofonseca-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/-victorhugofonseca-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
 </p>
