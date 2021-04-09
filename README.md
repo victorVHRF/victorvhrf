@@ -1,6 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Victor Hugo</h1>
 <h3 align="center">A Web Developer learning about the news technologies</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 
 <h4>- :office: I’m currently working on GSTI;</h4>
@@ -15,8 +14,8 @@
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
-    <img alt="Git" src="https://badges.aleen42.com/src/github.svg"/>
-    <img alt="NPM" src="https://badges.aleen42.com/src/npm.svg"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=61DAFB%22%20"/>
+    <img alt="NPM" src="https://img.shields.io/badge/Npm-20232A?style=flat&logo=npm&logoColor=61DAFB%22%20"/>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
     <img alt="Visual Studio Code" src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
     <img alt="Slack" src="https://badges.aleen42.com/src/slack.svg"/>
