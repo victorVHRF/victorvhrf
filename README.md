@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer learning about the news technologies</h3>
 
 
-<h4>- 🏢 I’m currently working on GSTI;</h4>
+<h4>- 🏢 I am currently working as a frontend developer at CIC (Controle Inteligente de Compensações);</h4>
 <h4>- 💻 I’m currently learning:</h4>
 
 |  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  |  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  |  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>  |  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  |  <img alt="Anuglar" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  |  <img alt="Angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>  |
