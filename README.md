@@ -1,9 +1,10 @@
 <h1 align="center">Hi dear 👋, I'm Victor Hugo</h1>
-<h3 align="center">A Web Developer learning about the news technologies</h3>
+<h3 align="center">Front-end developer with more than 4 years of experience</h3>
 
+<h4>Graduated in Systems Analysis and post-graduated in Software Engineering. Passionate about technologies, I always try to be studying the hottest languages ​​in the world of programming to keep myself updated. In addition to programming, I'm very familiar with agile development frameworks like Scrum and Kanban.
+</4>
 
-<h4>- 🏢 Front-end developer with more than 4 years of experience and participated with the following technologies: AngularJs, Typescript, Javascript, HTML, CSS, GraphQL, NodeJs.</h4>
-<h4>- 💻 I’m currently learning:</h4>
+<h5>- 💻 My skills:</h5>
 
 |  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  | <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  | <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>   | <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>  | <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  |  <img alt="TypeScripst" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
