@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear 👋, I'm Victor Hugo</h1>
-<h3 align="center">Front-end developer with more than 4 years of experience</h3>
+<h3 align="center">Full Stack developer with more than 5 years of experience</h3>
 
-<h4>Graduated in Systems Analysis and post-graduated in Software Engineering. Passionate about technologies, I always try to be studying the hottest languages ​​in the world of programming to keep myself updated. In addition to programming, I'm very familiar with agile development frameworks like Scrum and Kanban.
+<h4>👋 Hello! I'm a front-end developer with over 5 years of experience, specializing in Angular and React. Recently, I expanded my knowledge into full-stack development, focusing on Node.js. I have extensive experience in databases, including Oracle, SQL Server, MySQL, PostgreSQL, and MongoDB. I constantly seek innovation and quality in my solutions, always aligned with clients' needs. Let's work together to achieve great results!
 </4>
 
 <h5>- 💻 My skills:</h5>
